@@ -8,9 +8,15 @@ Please note that the **Anycubic i3 Mega** needs a different firmware (see [here]
 
 You can find the original fork (based on Marlin 1.1.0-pre8) in the *ANYCUBIC_PRUSA_I3_XL* folder. This version came most likely preinstalled on your printer.
 
+## Version information
+
+- Versions < 1.1.4 have the same configuration as the original firmware but lower temperature settings
+- 1.1.4 enables manual bed leveling via menu option
+- 1.1.5 introduces baby stepping for z axis
+
 Precompiled firmwares (without bootloader) in hex format are in the corresponding sub folders. You could use the [OctoPrint FirmwareUpdater Plugin](https://github.com/OctoPrint/OctoPrint-FirmwareUpdater) to easily flash them.
 
- Unsuitable modification may damage the machine, so please check the configuration before using these firmwares.
+Unsuitable modification may damage the machine, so please check the configuration before using these firmwares.
 
 To copy them onto your printer, SSH into your Pi and run:
 
