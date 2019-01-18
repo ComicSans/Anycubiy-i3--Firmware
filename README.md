@@ -17,4 +17,5 @@ exit
 ```
 
 Then use these settings:
+
 <img src="avrdude-settings.png" />
