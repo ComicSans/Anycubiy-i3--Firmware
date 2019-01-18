@@ -1,6 +1,6 @@
 # ANYCUBIC PRUSA I3 XL
 
-This repository adds custom configurations for the **Anycubic i3+** (also known as **Anycubic i3 XL** or **Anycubic i3 Ultrabed**) of the [Marlin Firmware](http://marlinfw.org/).
+This repository adds custom configurations for the **Anycubic i3+** (also known as **Anycubic i3 XL** or **Anycubic i3 Ultrabase**) of the [Marlin Firmware](http://marlinfw.org/).
 
 This printer is based on the Prusa i3 design and comes with a heat bed (the Anycubic Ultrabed) and an MK8 extruder.
 
