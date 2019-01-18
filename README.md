@@ -10,9 +10,9 @@ You can find the original fork (based on Marlin 1.1.0-pre8) in the *ANYCUBIC_PRU
 
 ## Version information
 
-- Versions < 1.1.4 have the same configuration as the original firmware but lower temperature settings
-- 1.1.4 enables manual bed leveling via menu option
-- 1.1.5 introduces baby stepping for z axis
+- Versions < 1.1.5 have the same configuration as the original firmware but lower temperature settings
+- 1.1.5 enables manual bed leveling via menu option
+- 1.1.6 also introduces baby stepping for z axis
 
 Precompiled firmwares (without bootloader) in hex format are in the corresponding sub folders. You could use the [OctoPrint FirmwareUpdater Plugin](https://github.com/OctoPrint/OctoPrint-FirmwareUpdater) to easily flash them.
 
