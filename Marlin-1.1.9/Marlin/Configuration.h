@@ -355,7 +355,7 @@
 #define HEATER_2_MAXTEMP 260
 #define HEATER_3_MAXTEMP 260
 #define HEATER_4_MAXTEMP 260
-#define BED_MAXTEMP 110
+#define BED_MAXTEMP 125
 
 //===========================================================================
 //============================= PID Settings ================================
@@ -1261,7 +1261,7 @@
 #define PREHEAT_1_FAN_SPEED     0 // Value from 0 to 255
 
 #define PREHEAT_2_TEMP_HOTEND 230
-#define PREHEAT_2_TEMP_BED     80
+#define PREHEAT_2_TEMP_BED     100
 #define PREHEAT_2_FAN_SPEED     0 // Value from 0 to 255
 
 /**
